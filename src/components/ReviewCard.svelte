@@ -23,7 +23,7 @@
         >
             <div
                 class="rounded-full bg-slate-950 aspect-square bg-slate-950 h-2"
-            />
+            ></div>
         </div>
         <div class="flex items-center gap-2">
             <i class="fa-solid fa-user"></i>
