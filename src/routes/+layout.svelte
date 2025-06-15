@@ -2,7 +2,7 @@
     import "../app.css";
     import Footer from "../components/Footer.svelte";
     import Header from "../components/Header.svelte";
-    import CtAs from "../components/CtAs.svelte";
+    import CtAs from "../components/CTAs.svelte";
     import { openModal } from "../store";
 
     let y;
